@@ -1,7 +1,7 @@
 <?php
 
 ob_start();
-define('API_KEY','8193545920:AAGG-1uNASQ6c59fNh1ZBjIngvwpRKjEFZo');
+define('8193545920:AAGG-1uNASQ6c59fNh1ZBjIngvwpRKjEFZo');
 //-----------------------------------------------------------------------------------------
 //فانکشن jijibot :
 function jijibot($method,$datas=[]){
@@ -58,10 +58,10 @@ function exit_ch ($id){
 //-----------------------------------------------------------------------------------------
 //متغیر ها :
 // msg
-$Dev = array("" , "");
+$Dev = array("" 5815152399 "");
 @$usernamebot = "Xchat1_bot";
 @$channel = "XChat1_channel";
-$token = API_KEY;
+$token = 8193545920:AAGG-1uNASQ6c59fNh1ZBjIngvwpRKjEFZo;
 $web = "https://amirgit00x.github.io/ChatSors/"; 
 //-----------------------------------------------------------------------------------------------
 $update = json_decode(file_get_contents('php://input'));
