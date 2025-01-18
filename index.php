@@ -62,7 +62,7 @@ $Dev = array("" , "");
 @$usernamebot = "Xchat1_bot";
 @$channel = "XChat1_channel";
 $token = API_KEY;
-$web = "https://netcopy.ir"; 
+$web = "https://amirgit00x.github.io/ChatSors/"; 
 //-----------------------------------------------------------------------------------------------
 $update = json_decode(file_get_contents('php://input'));
 $message = $update->message;
