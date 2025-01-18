@@ -1,7 +1,7 @@
 <?php
 
 ob_start();
-define('API_KEY','توکن'); //توکن
+define('API_KEY','8193545920:AAGG-1uNASQ6c59fNh1ZBjIngvwpRKjEFZo');
 //-----------------------------------------------------------------------------------------
 //فانکشن jijibot :
 function jijibot($method,$datas=[]){
@@ -59,8 +59,8 @@ function exit_ch ($id){
 //متغیر ها :
 // msg
 $Dev = array("" , "");
-@$usernamebot = "crashyaab_bot";
-@$channel = "bazihayetelegrami ";
+@$usernamebot = "Xchat1_bot";
+@$channel = "XChat1_channel";
 $token = API_KEY;
 $web = "https://netcopy.ir"; 
 //-----------------------------------------------------------------------------------------------
