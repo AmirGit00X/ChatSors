@@ -1,9 +1,9 @@
 <?php
-$token = "0000000"; 
-$admin     = "0000000"; 
-$chanmm    = "@tmsizdah"; 
-$useradmin = "@sizdahorgg"; 
-$adminid = "000000000"; 
+$token = "8193545920:AAGG-1uNASQ6c59fNh1ZBjIngvwpRKjEFZo"; 
+$admin     = "5815152399"; 
+$chanmm    = "@XChat1_channel"; 
+$useradmin = "@AmirRMQ"; 
+$adminid = "5815152399"; 
 $helptxt   = "متن راهنما تنظیم نشده"; 
 define('API_KEY', $token);
 $chanm = $chanmm;
